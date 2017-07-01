@@ -1,0 +1,318 @@
+body{
+	background: #FFF;
+	margin:0;
+	padding:0;
+	width: 100%;
+}
+
+.navbar{
+	 margin:0;
+	 border:0;
+	 border-radius:0;
+}
+
+#navbar{
+	 background: #2BB;
+	 border: 0;
+	 border-radius:0;
+	 margin:0;
+}
+
+.nav > li > a{
+	margin-left: 5px; 
+	 
+}
+
+.container{
+	 width: 100%;
+}
+.subjects{
+  text-align: center;
+  margin:0;
+  padding:0;
+  padding-left: 40px;
+}
+
+.subjectname{
+	  padding:20px;
+	  height: 30px;
+	  text-align: center;
+	  width: 100%;
+}
+
+#movieslist2{
+	 background: #AAA;
+}
+
+#actor{
+	 color: #666;
+}
+
+
+#moviespage2 > li > a{
+       color: #FFF;
+       width: 100%;
+       font-size: 20px;
+       font-weight:bolder;
+       text-align: center;
+       margin-left: 280px;
+       letter-spacing: 0.1em;
+}
+
+.col-md-8{
+	 
+	 background:;
+	 margin: 0px;
+	 padding-left:40px;
+}
+
+.col-md-12{
+	 padding:10px 20px;
+	 margin-top:10px 20px;
+}
+
+#col-md-12{
+	height: 500px;
+	background-image: url("../images/16.jpg");
+}
+
+.col-md-6{
+	 margin-left: 30px;
+}
+
+.table{
+	margin-top: 0;
+}
+
+.lead{
+	 color: #034590;
+	 font-weight: bold;
+	 font-size: 28px;
+}
+
+.lead2{
+	 text-align: left;
+	 color: #999;
+}
+
+.stars{
+	
+	 height: 50px;
+	 background: #888;
+	 padding: 10px;
+	 color: #fff;
+	 font-weight: bolder;
+	 letter-spacing: 0.08em;
+}
+
+.starsgallerylist{
+	  color: #AAA;
+	  font-size: 17px;
+}
+
+.starsgallerylist:hover{
+	   color: #7CA;
+}
+
+#navbar{
+	 background: #333;
+}
+
+#nav > li > a{
+	  margin-left: 180px;
+	  
+}
+
+.btn{
+	border-radius:0;
+
+}
+
+.btn:hover{
+	 background: #AD2;
+
+}
+
+li{
+	list-style-type: none;
+}
+
+a{
+	 color: #fff;
+	 text-decoration: none;
+}
+a:hover{
+	 color: #FFF;
+	 text-decoration: none;
+}
+a:visited{
+	 
+}
+
+#subject{
+	 color: #4BD;
+}
+
+li > .btn {
+	text-decoration: none;
+	padding:10px;
+	margin-top:10px;
+	
+}
+
+.panel{
+	 
+	 height: 500px;
+
+	 text-align: center;
+
+}
+
+.panel-bottom{
+	height: 90px;
+	 background: #FFF;
+}
+
+h1{
+	text-align: center;
+	color: #fff;
+	letter-spacing: 0.1em;
+	font-weight: bolder;
+	
+}
+
+h2{
+	
+    width:120px;
+    font-size: 100px;
+    color: #fff;
+	background: #9DB;
+}
+
+h3{
+	text-align: center;
+	color: #888;
+	letter-spacing: 0.2em;
+	font-size: 28px;
+	font-weight: bolder;
+	font-style: inherit;
+}
+h4{
+	
+	font-weight: bold;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: #999;
+	font-style: italic;
+}
+
+h5{
+	color: #555;
+	font-weight: bolder;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+h7{
+	background: #987;
+	color: #fff;
+	width: 210px;
+	font-size: 70px;
+}
+
+#img{
+	 background: #333;
+	 margin-left:60px;
+	 border-radius: 100%;
+}
+
+#profile{
+
+	 background: ;
+	 color: #fff;
+	 width: 55%;
+}
+
+#gallery{
+	 background: #A99;
+	 height: 60px;
+	 text-align: center;
+	 color: #fff;
+}
+
+#movies{
+	 background: #7Fc;
+}
+
+#time{
+	background: #444;
+}
+
+#moviesprofile{
+	margin-top: 0;
+	padding: 0;
+}
+
+#director{
+	 height: 350px;
+}
+
+#singer{
+	height: 350px;
+}
+
+#release_dates{
+	  background: #444;
+	  color: #fff;
+	  text-align: center;
+
+}
+
+ #nav2 > h3{
+	 margin-left: 130px;
+}
+
+.movies_year{
+	 width: 80%;
+}
+
+.year{
+	 background: #000;
+	 font-size: 22px;
+	 text-align: center;
+	 color: #fff;
+	 font-weight: bolder;
+}
+
+.month{
+	background: #555;
+	 font-size: 22px;
+	 text-align: center;
+	 color: #fff;
+	 font-weight: bolder;
+}
+
+.movie_name{
+	 background: #CCC;
+	 color: #FFF;
+	 text-align: center;
+	 font-weight: bold;
+	 font-size: 19px;
+
+}
+
+#link{
+	color: #A00;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.footer{
+	 width: 100%;
+	 background: #222;
+	 color: #fff;
+	 padding:60px;
+	 font-size: 15px;
+	 text-align: center;
+}
